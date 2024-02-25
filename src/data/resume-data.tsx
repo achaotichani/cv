@@ -20,24 +20,25 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Hani Ngo",
+  initials: "HA",
+  location: "Ho Chi Minh City, Vietnam",
+  locationLink: "https://www.google.com/maps/place/Ho+Chi+Minh+City,+Vietnam/",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "A passionate and results-driven Marketing graduate with a strong focus on digital marketing, media planning, and creative design.",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "I excel at implementing innovative strategies to improve brand presence, drive engagement, and deliver results. With a proven track record in SEO analysis, social media optimization, and project management, I have experience collaborating with diverse teams to achieve goals.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://haningo.com/",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "haningo.design@gmail.com",
+    tel: "+84 98 5002 402",
     social: [
       {
-        name: "GitHub",
+        name: "GitHub", // Instead of GitHub, it can be something like Behance, etc.
         url: "https://github.com/BartoszJarocki",
-        icon: GitHubIcon,
+        icon: GitHubIcon, // THIS WILL BE TOUGH. Change the icon inside
+                          // /Users/psumit/Ngo/cv/src/components/icons folder to the Behance icon.
       },
       {
         name: "LinkedIn",
@@ -45,18 +46,18 @@ export const RESUME_DATA = {
         icon: LinkedInIcon,
       },
       {
-        name: "X",
+        name: "X", // Instead of X, it can be the chaoticvisual instagram.
         url: "https://x.com/BartoszJarocki",
-        icon: XIcon,
+        icon: XIcon, // Change the icon inside /Users/psumit/Ngo/cv/src/components/icons folder to instagram.
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Ritsumeikan Asia Pacific University",
+      degree: "Bachelor's Degree in Business Administration, CGPA 3.84",
+      start: "2019",
+      end: "2023",
     },
   ],
   work: [
@@ -105,9 +106,9 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
+    "Illustrator",
+    "Figma",
+    "Photoshop",
     "Node.js",
     "GraphQL",
     "Relay",
