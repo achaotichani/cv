@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "A passionate and results-driven Marketing graduate with a strong focus on digital marketing, media planning, and creative design.",
   summary:
     "I excel at implementing innovative strategies to improve brand presence, drive engagement, and deliver results. With a proven track record in SEO analysis, social media optimization, and project management, I have experience collaborating with diverse teams to achieve goals.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://media.licdn.com/dms/image/D5603AQGtJNXma9noJQ/profile-displayphoto-shrink_800_800/0/1693970843623?e=1714608000&v=beta&t=Pi4wEjLsSLA5m0L2j0WAgEA2ELEClKYto-SO1XNgmME",
   personalWebsiteUrl: "https://haningo.com/",
   contact: {
     email: "haningo.design@gmail.com",
