@@ -4,9 +4,7 @@ export const BehanceIcon = (props: React.SVGProps<SVGSVGElement>) => {
       id="Layer_1" 
       data-name="Layer 1" 
       xmlns="http://www.w3.org/2000/svg" 
-      viewBox="0 0 512 512" 
-      width="100"  // Set width as desired
-      height="100" // Set height as desired
+      viewBox="0 0 256 256" 
       {...props}
     >
       <path d="M344.1,233.6c-28.9,0-32.9,28.8-32.9,28.8h61.4S373,233.6,344.1,233.6Z"/>
