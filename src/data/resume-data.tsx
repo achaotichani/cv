@@ -17,7 +17,7 @@ import {
   TastyCloudLogo,
   YearProgressLogo,
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { BehanceIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Hani Ngo",
@@ -31,13 +31,13 @@ export const RESUME_DATA = {
   avatarUrl: "https://media.licdn.com/dms/image/D5603AQGtJNXma9noJQ/profile-displayphoto-shrink_800_800/0/1693970843623?e=1714608000&v=beta&t=Pi4wEjLsSLA5m0L2j0WAgEA2ELEClKYto-SO1XNgmME",
   personalWebsiteUrl: "https://haningo.com/",
   contact: {
-    email: "haningo.design@gmail.com",
+    email: "hani@haningo.com",
     tel: "+84 98 5002 402",
     social: [
       {
-        name: "GitHub", // Instead of GitHub, it can be something like Behance, etc.
-        url: "https://github.com/BartoszJarocki",
-        icon: GitHubIcon, // THIS WILL BE TOUGH. Change the icon inside
+        name: "Behance", // Instead of GitHub, it can be something like Behance, etc.
+        url: "https://www.behance.net/haningo/",
+        icon: BehanceIcon, // THIS WILL BE TOUGH. Change the icon inside
                           // /Users/psumit/Ngo/cv/src/components/icons folder to the Behance icon.
       },
       {
