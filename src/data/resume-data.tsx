@@ -54,19 +54,19 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Design Anthropology School",
-      badges: ["Ho Chi Minh City, Vietnam"],
-      url: "https://das.info.vn/"
       degree: "Multidisciplinary Design Program, Sole Awardee of the 50% Tuition Scholarship",
       start: "November 2023",
       end: "December 2024 (Expected)",
+      badges: ["Ho Chi Minh City, Vietnam"],
+      url: "https://das.info.vn/"
     },
     {
       school: "Ritsumeikan Asia Pacific University",
-      badges: ["Beppu, Japan"],
-      url: "https://en.apu.ac.jp/home/"
       degree: "Bachelor's Degree in Business Administration, CGPA 3.84",
       start: "2019",
       end: "2023",
+      badges: ["Beppu, Japan"],
+      url: "https://en.apu.ac.jp/home/"
     },
   ],
   work: [ 
