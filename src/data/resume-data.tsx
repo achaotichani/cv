@@ -55,18 +55,14 @@ export const RESUME_DATA = {
     {
       school: "Design Anthropology School",
       degree: "Multidisciplinary Design Program, Sole Awardee of the 50% Tuition Scholarship",
-      start: "November 2023",
-      end: "December 2024 (Expected)",
-      badges: ["Ho Chi Minh City, Vietnam"],
-      url: "https://das.info.vn/"
+      start: "Nov 2023",
+      end: "Dec 2024 (Expected)",
     },
     {
       school: "Ritsumeikan Asia Pacific University",
       degree: "Bachelor's Degree in Business Administration, CGPA 3.84",
       start: "2019",
       end: "2023",
-      badges: ["Beppu, Japan"],
-      url: "https://en.apu.ac.jp/home/"
     },
   ],
   work: [ 
@@ -76,7 +72,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Personal Branding Assistant and Designer",
       logo: ParabolLogo,
-      start: "2023",
+      start: "Dec 2023",
       end: "Present",
       description:
         "Assisting in the development of a personal brand for a professional in the field of AI through designing personal branding materials such as designing posts, writing captions, and creating content for LinkedIn and blog posts. Technologies: Adobe Illustrator, Adobe Photoshop, Figma.",
@@ -87,10 +83,10 @@ export const RESUME_DATA = {
       badges: ["Hybrid"],
       title: "Internal Marketing and Media Production Intern",
       logo: ClevertechLogo,
-      start: "April 2023",
-      end: "August 2023",
+      start: "Apr 2023",
+      end: "Aug 2023",
       description:
-        "• Conceptualized and created content for 3+ eLearning modules using Articulate 360, enhancing training accessibility for over 10,000 employees across the MFTBC network.\n• Collaborated directly with the department manager to optimize internal and promotional communication design using Adobe CC, resulting in improved visual consistency and messaging.\n• Developed and executed engaging media content and newsletters for both internal and external communication.",
+        "Conceptualized and created content for 3+ eLearning modules using Articulate 360, enhancing training accessibility for over 10,000 employees across the MFTBC network. Collaborated directly with the department manager to optimize internal and promotional communication design using Adobe CC, resulting in improved visual consistency and messaging. Developed and executed engaging media content and newsletters for both internal and external communication.",
     },
   ],
   skills: [
