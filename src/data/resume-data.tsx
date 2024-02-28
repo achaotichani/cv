@@ -17,7 +17,7 @@ import {
   TastyCloudLogo,
   YearProgressLogo,
 } from "@/images/logos";
-import { BehanceIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { BehanceIcon, LinkedInIcon, InstagramIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Hani Ngo",
@@ -35,10 +35,9 @@ export const RESUME_DATA = {
     tel: "+84 98 5002 402",
     social: [
       {
-        name: "Behance", // Instead of GitHub, it can be something like Behance, etc.
+        name: "Behance",
         url: "https://www.behance.net/haningo/",
-        icon: BehanceIcon, // THIS WILL BE TOUGH. Change the icon inside
-                          // /Users/psumit/Ngo/cv/src/components/icons folder to the Behance icon.
+        icon: BehanceIcon, 
       },
       {
         name: "LinkedIn",
@@ -46,9 +45,9 @@ export const RESUME_DATA = {
         icon: LinkedInIcon,
       },
       {
-        name: "X", // Instead of X, it can be the chaoticvisual instagram.
-        url: "https://x.com/BartoszJarocki",
-        icon: XIcon, // Change the icon inside /Users/psumit/Ngo/cv/src/components/icons folder to instagram.
+        name: "Instagram", 
+        url: "https://www.instagram.com/_chaotic.visual_/",
+        icon: InstagramIcon,
       },
     ],
   },

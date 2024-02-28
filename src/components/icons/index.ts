@@ -1,5 +1,5 @@
 import { BehanceIcon } from "./BehanceIcon";
 import { LinkedInIcon } from "./LinkedInIcon";
-import { XIcon } from "./XIcon";
+import { InstagramIcon } from "./InstagramIcon";
 
-export { BehanceIcon, LinkedInIcon, XIcon };
+export { BehanceIcon, LinkedInIcon, InstagramIcon };
