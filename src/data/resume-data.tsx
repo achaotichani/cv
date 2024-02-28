@@ -53,65 +53,51 @@ export const RESUME_DATA = {
   },
   education: [
     {
+      school: "Design Anthropology School",
+      badges: ["Ho Chi Minh City, Vietnam"],
+      url: "https://das.info.vn/"
+      degree: "Multidisciplinary Design Program, Sole Awardee of the 50% Tuition Scholarship",
+      start: "November 2023",
+      end: "December 2024 (Expected)",
+    },
+    {
       school: "Ritsumeikan Asia Pacific University",
+      badges: ["Beppu, Japan"],
+      url: "https://en.apu.ac.jp/home/"
       degree: "Bachelor's Degree in Business Administration, CGPA 3.84",
       start: "2019",
       end: "2023",
     },
   ],
-  work: [
+  work: [ 
     {
-      company: "Parabol",
-      link: "https://parabol.co",
+      company: "Sumit Pokharel",
+      link: "https://linkedin.com/in/sumit-pokharel/",
       badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      title: "Personal Branding Assistant and Designer",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "2023",
+      end: "Present",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Assisting in the development of a personal brand for a professional in the field of AI through designing personal branding materials such as designing posts, writing captions, and creating content for LinkedIn and blog posts. Technologies: Adobe Illustrator, Adobe Photoshop, Figma.",
     },
     {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
-      badges: ["Remote"],
-      title: "Lead Android Developer → Full Stack Developer",
+      company: "Mitsubishi Fuso Truck and Bus Corporation",
+      link: "https://www.mitsubishi-fuso.com/en/",
+      badges: ["Hybrid"],
+      title: "Internal Marketing and Media Production Intern",
       logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
+      start: "April 2023",
+      end: "August 2023",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
-    },
-    {
-      company: "Jojo Mobile",
-      link: "https://bsgroup.eu/",
-      badges: [],
-      title: "Android Developer → Lead Android Developer",
-      logo: JojoMobileLogo,
-      start: "2012",
-      end: "2015",
-      description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
-    },
-    {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
-      badges: [],
-      title: "C/C++ Developer",
-      logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description: "Creating and testing software for LTE base stations",
+        "• Conceptualized and created content for 3+ eLearning modules using Articulate 360, enhancing training accessibility for over 10,000 employees across the MFTBC network.\n• Collaborated directly with the department manager to optimize internal and promotional communication design using Adobe CC, resulting in improved visual consistency and messaging.\n• Developed and executed engaging media content and newsletters for both internal and external communication.",
     },
   ],
   skills: [
     "Illustrator",
     "Figma",
     "Photoshop",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Procreate",
   ],
   projects: [
     {
