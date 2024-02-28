@@ -3,7 +3,7 @@ export const InstagramIcon = (props: React.SVGProps<SVGSVGElement>) => {
     <svg
       style={{ color: 'rgb(107, 114, 128)' }}
       xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 470 470"
+      viewBox="0 0 475 475"
       {...props}
     >
       <title>Instagram</title>
