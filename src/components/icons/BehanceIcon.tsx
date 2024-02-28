@@ -5,7 +5,7 @@ export const BehanceIcon = (props: React.SVGProps<SVGSVGElement>) => {
       id="Layer_1" 
       data-name="Layer 1" 
       xmlns="http://www.w3.org/2000/svg" 
-      viewBox="20 20 450 450" 
+      viewBox="30 30 450 450" 
       {...props}
     >
       <title>Behance</title>
