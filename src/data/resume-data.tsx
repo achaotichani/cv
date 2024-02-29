@@ -132,7 +132,10 @@ export const RESUME_DATA = {
     },
     {
       title: "haningo.com",
-      techStack: ["Side Project", "Next.js", "MDX"],
+      techStack: [
+        "Personal Website",
+        "Graphic Design",
+      ],
       description:
         "My personal website and blog to share my design journey and thoughts. I also use it as a platform to showcase my design projects and portfolio.",
       logo: JarockiMeLogo, // this needs to be changed
