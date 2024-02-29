@@ -67,11 +67,11 @@ export const RESUME_DATA = {
   ],
   work: [ 
     {
-      company: "Sumit Pokharel",
-      link: "https://linkedin.com/in/sumit-pokharel/",
+      company: "Japan-based Rakuten Software Engineer",
+      link: "https://global.rakuten.com/corp/",
       badges: ["Remote"],
       title: "Personal Branding Assistant and Designer",
-      logo: ParabolLogo,
+      logo: ParabolLogo, // this needs to be changed
       start: "Dec 2023",
       end: "Present",
       description:
@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       link: "https://www.mitsubishi-fuso.com/en/",
       badges: ["Hybrid"],
       title: "Internal Marketing and Media Production Intern",
-      logo: ClevertechLogo,
+      logo: ClevertechLogo,  // this needs to be changed
       start: "Apr 2023",
       end: "Aug 2023",
       description:
@@ -90,171 +90,56 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "Illustrator",
+    "Adobe Illustrator",
     "Figma",
-    "Photoshop",
+    "Adobe Photoshop",
     "Procreate",
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "Sakura Card Captor OST",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Graphic Design",
+        "Personal Project",
+        "Illustration",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
       ],
-      description: "A platform to build and grow your online business",
-      logo: ConsultlyLogo,
+      description: "A music album design project as a tribute to my favorite childhood animation \"Cardcaptor Sakura\"",
+      logo: ConsultlyLogo, // this needs to be changed
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "haningo.com/music-album-design-sakura-card-captor-ost", // pay attention to this, may not work
+        href: "https://haningo.com/music-album-design-sakura-card-captor-ost",
       },
     },
     {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "Poster Design Collection",
+      techStack: [
+        "Graphic Design",
+        "Personal Project",
+        "SNS Management",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Figma",
+      ],
       description:
-        "Browser extension that records everything happening in a web application",
-      logo: MonitoLogo,
+        "A series of posters for my design blog on Instagram to record my journey of being a multidisciplinary designer.",
+      logo: MonitoLogo, // this needs to be changed
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "instagram.com/_chaotic.visual_/", // pay attention to this, may not work
+        href: "https://www.instagram.com/_chaotic.visual_/",
       },
     },
     {
-      title: "Jarocki.me",
+      title: "haningo.com",
       techStack: ["Side Project", "Next.js", "MDX"],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
-      logo: JarockiMeLogo,
+        "My personal website and blog to share my design journey and thoughts. I also use it as a platform to showcase my design projects and portfolio.",
+      logo: JarockiMeLogo, // this needs to be changed
       link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
+        label: "haningo.com/",
+        href: "https://haningo.com/",
       },
-    },
-    {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Minimalist calendars, habit trackers and planners generator",
-      logo: Minimal,
-      link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
-      },
-    },
-    {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Generates beautiful wallpapers using random shapes and gradients",
-      logo: BarepapersLogo,
-      link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
-      },
-    },
-    {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
-      logo: YearProgressLogo,
-      link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
-      },
-    },
-    {
-      title: "Parabol",
-      techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
-      logo: ParabolLogo,
-      link: {
-        label: "github.com",
-        href: "https://parabol.co/",
-      },
-    },
-    {
-      title: "Evercast",
-      techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-      ],
-      description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
-      logo: EvercastLogo,
-      link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
-      },
-    },
-    {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for leading virtual mobile operator in Poland",
-      logo: MobileVikingsLogo,
-      link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
-      },
-    },
-    {
-      title: "Howdy",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Howdy is a place for you to join communities you care about",
-      logo: Howdy,
-      link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
-      },
-    },
-    {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
-      logo: TastyCloudLogo,
-      link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
-      },
-    },
-    {
-      title: "Ambit",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with sharing your contact details",
-      logo: AmbitLogo,
-    },
-    {
-      title: "Bim",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Android application that helps with booking a table in a restaurants",
-      logo: BimLogo,
-    },
-    {
-      title: "Canal Digital GO",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Video streaming mobile application for Canal Digital subscribers",
-      logo: CDGOLogo,
     },
   ],
 } as const;
