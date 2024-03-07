@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Ho Chi Minh City, Vietnam",
   locationLink: "https://www.google.com/maps/place/Ho+Chi+Minh+City,+Vietnam/",
   about:
-    "A passionate and results-driven Marketing graduate with a strong focus on digital marketing, media planning, and creative design.",
+    "Graphic Designer",
   summary:
-    "I excel at implementing innovative strategies to improve brand presence, drive engagement, and deliver results. With a proven track record in SEO analysis, social media optimization, and project management, I have experience collaborating with diverse teams to achieve goals.",
+    "A passionate & results-driven Marketing graduate with a strong focus on creative design. Well-groomed with a business-oriented mindset & the ability to access a wide range of resources thanks to my fluency in English and Japanese, my designs breathe unique ideas supported with careful research & critical thinking.",
   avatarUrl: "https://media.licdn.com/dms/image/D5603AQGtJNXma9noJQ/profile-displayphoto-shrink_800_800/0/1693970843623?e=1714608000&v=beta&t=Pi4wEjLsSLA5m0L2j0WAgEA2ELEClKYto-SO1XNgmME",
   personalWebsiteUrl: "https://haningo.com/",
   contact: {
@@ -79,7 +79,7 @@ export const RESUME_DATA = {
           <li>• Assisting in the development of a personal brand for a professional in the field of AI through designing personal branding materials such as designing posts, writing captions, and creating content for LinkedIn and blog posts.</li>
           <li>• Technologies: Adobe Illustrator, Adobe Photoshop, Figma.</li>
         </ul>
-      )
+        )
       },
     {
       company: "Mitsubishi Fuso Truck and Bus Corporation",
@@ -89,9 +89,15 @@ export const RESUME_DATA = {
       logo: ClevertechLogo,  // this needs to be changed
       start: "Apr 2023",
       end: "Aug 2023",
-      description:
-        "Conceptualized and created content for 3+ eLearning modules using Articulate 360, enhancing training accessibility for over 10,000 employees across the MFTBC network. Collaborated directly with the department manager to optimize internal and promotional communication design using Adobe CC, resulting in improved visual consistency and messaging. Developed and executed engaging media content and newsletters for both internal and external communication.",
-    },
+      description: (
+        <ul>
+          <li>• Conceptualized and created content for 3+ eLearning modules using Articulate 360, enhancing training accessibility for over 10,000 employees across the MFTBC network.</li>
+          <li>• Collaborated directly with the department manager to optimize internal and promotional communication design using Adobe CC, resulting in improved visual consistency and messaging.</li>
+          <li>• Developed and executed engaging media content and newsletters for both internal and external communication.</li>
+          <li>• Technologies: Articulate 360, Adobe Illustrator, Adobe Photoshop.</li>
+        </ul>
+        )
+      },
   ],
   skills: [
     "Adobe Illustrator",
