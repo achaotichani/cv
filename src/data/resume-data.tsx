@@ -154,5 +154,20 @@ export const RESUME_DATA = {
         href: "https://haningo.com/",
       },
     },
+    {
+      title: "Frenlance",
+      techStack: [
+        "UI Design",
+        "Personal Project",
+        "Figma",
+      ],
+      description:
+        "Frenlance (Friend with Freelance) is a digital tool for freelancers to record & manage their business and financial information.",
+      
+      link: {
+        label: "figma.com/proto/XAp9HvfkZNmDeQFH6sIqym/NGO-Le-Hoang-Anh_FwF_Financial-Management-Feature?page-id=0%3A1&node-id=1-812&viewport=275%2C377%2C0.1&scaling=min-zoom&starting-point-node-id=1%3A812", // pay attention to this, may not work
+        href: "https://www.figma.com/proto/XAp9HvfkZNmDeQFH6sIqym/NGO-Le-Hoang-Anh_FwF_Financial-Management-Feature?page-id=0%3A1&node-id=1-812&viewport=275%2C377%2C0.1&scaling=min-zoom&starting-point-node-id=1%3A812",
+      },
+    },
   ],
 } as const;
