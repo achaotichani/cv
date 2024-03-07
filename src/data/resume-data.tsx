@@ -71,7 +71,6 @@ export const RESUME_DATA = {
       link: "https://global.rakuten.com/corp/",
       badges: ["Remote"],
       title: "Personal Branding Assistant and Designer",
-      logo: ParabolLogo, // this needs to be changed
       start: "Dec 2023",
       end: "Present",
       description: (
@@ -86,7 +85,6 @@ export const RESUME_DATA = {
       link: "https://www.mitsubishi-fuso.com/en/",
       badges: ["Hybrid"],
       title: "Internal Marketing and Media Production Intern",
-      logo: ClevertechLogo,  // this needs to be changed
       start: "Apr 2023",
       end: "Aug 2023",
       description: (
@@ -115,8 +113,7 @@ export const RESUME_DATA = {
         "Adobe Illustrator",
         "Adobe Photoshop",
       ],
-      description: "A music album design project as a tribute to my favorite childhood animation \"Cardcaptor Sakura\"",
-      logo: ConsultlyLogo, // this needs to be changed
+      description: "A music album design project as a tribute to my favorite childhood animation \"Cardcaptor Sakura\".",
       link: {
         label: "haningo.com/music-album-design-sakura-card-captor-ost", // pay attention to this, may not work
         href: "https://haningo.com/music-album-design-sakura-card-captor-ost",
@@ -134,7 +131,6 @@ export const RESUME_DATA = {
       ],
       description:
         "A series of posters for my design blog on Instagram to record my journey of being a multidisciplinary designer.",
-      logo: MonitoLogo, // this needs to be changed
       link: {
         label: "instagram.com/_chaotic.visual_/", // pay attention to this, may not work
         href: "https://www.instagram.com/_chaotic.visual_/",
@@ -148,7 +144,6 @@ export const RESUME_DATA = {
       ],
       description:
         "My personal website and blog to share my design journey and thoughts. I also use it as a platform to showcase my design projects and portfolio.",
-      logo: JarockiMeLogo, // this needs to be changed
       link: {
         label: "haningo.com/",
         href: "https://haningo.com/",
@@ -163,7 +158,6 @@ export const RESUME_DATA = {
       ],
       description:
         "Frenlance (Friend with Freelance) is a digital tool for freelancers to record & manage their business and financial information.",
-      
       link: {
         label: "figma.com/proto/XAp9HvfkZNmDeQFH6sIqym/NGO-Le-Hoang-Anh_FwF_Financial-Management-Feature?page-id=0%3A1&node-id=1-812&viewport=275%2C377%2C0.1&scaling=min-zoom&starting-point-node-id=1%3A812", // pay attention to this, may not work
         href: "https://www.figma.com/proto/XAp9HvfkZNmDeQFH6sIqym/NGO-Le-Hoang-Anh_FwF_Financial-Management-Feature?page-id=0%3A1&node-id=1-812&viewport=275%2C377%2C0.1&scaling=min-zoom&starting-point-node-id=1%3A812",
