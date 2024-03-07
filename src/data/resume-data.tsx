@@ -74,9 +74,13 @@ export const RESUME_DATA = {
       logo: ParabolLogo, // this needs to be changed
       start: "Dec 2023",
       end: "Present",
-      description:
-        "Assisting in the development of a personal brand for a professional in the field of AI through designing personal branding materials such as designing posts, writing captions, and creating content for LinkedIn and blog posts. Technologies: Adobe Illustrator, Adobe Photoshop, Figma.",
-    },
+      description: (
+        <ul>
+          <li>• Assisting in the development of a personal brand for a professional in the field of AI through designing personal branding materials such as designing posts, writing captions, and creating content for LinkedIn and blog posts.</li>
+          <li>• Technologies: Adobe Illustrator, Adobe Photoshop, Figma.</li>
+        </ul>
+      )
+      },
     {
       company: "Mitsubishi Fuso Truck and Bus Corporation",
       link: "https://www.mitsubishi-fuso.com/en/",
