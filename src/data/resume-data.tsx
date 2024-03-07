@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Graphic Designer",
   summary:
-    "A passionate & results-driven Marketing graduate with a strong focus on creative design. Well-groomed with a business-oriented mindset & the ability to access a wide range of resources thanks to my fluency in English and Japanese, my designs breathe unique ideas supported with careful research & critical thinking.",
+    "Marketing graduate with a passion for creative design and a results-oriented approach. Fluent in English and Japanese, I leverage diverse resources to create innovative, research-based designs grounded in critical thinking."
   avatarUrl: "https://media.licdn.com/dms/image/D5603AQGtJNXma9noJQ/profile-displayphoto-shrink_800_800/0/1693970843623?e=1714608000&v=beta&t=Pi4wEjLsSLA5m0L2j0WAgEA2ELEClKYto-SO1XNgmME",
   personalWebsiteUrl: "https://haningo.com/",
   contact: {
