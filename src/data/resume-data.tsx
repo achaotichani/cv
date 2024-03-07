@@ -77,7 +77,7 @@ export const RESUME_DATA = {
       description: (
         <ul>
           <li>• Assisting in the development of a personal brand for a professional in the field of AI through designing personal branding materials such as designing posts, writing captions, and creating content for LinkedIn and blog posts.</li>
-          <li>• Technologies: Adobe Illustrator, Adobe Photoshop, Figma.</li>
+          <li><strong>Technologies:</strong> Adobe Illustrator, Adobe Photoshop, Figma.</li>
         </ul>
         )
       },
@@ -94,7 +94,7 @@ export const RESUME_DATA = {
           <li>• Conceptualized and created content for 3+ eLearning modules using Articulate 360, enhancing training accessibility for over 10,000 employees across the MFTBC network.</li>
           <li>• Collaborated directly with the department manager to optimize internal and promotional communication design using Adobe CC, resulting in improved visual consistency and messaging.</li>
           <li>• Developed and executed engaging media content and newsletters for both internal and external communication.</li>
-          <li>• Technologies: Articulate 360, Adobe Illustrator, Adobe Photoshop.</li>
+          <li><strong>Technologies:</strong> Articulate 360, Adobe Illustrator, Adobe Photoshop.</li>
         </ul>
         )
       },
